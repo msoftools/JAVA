@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "ZooKeeperConnection/lib/zookeeper-3.9.0.jar"
+    ]
+}
