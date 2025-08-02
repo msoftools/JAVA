@@ -14,6 +14,6 @@ public class HelloMarioAnt {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-System.out.println("hola buen mario");    }
+System.out.println("hola buen kike");    }
     
 }
