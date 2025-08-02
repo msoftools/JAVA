@@ -1,0 +1,51 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ZooKeeperConnection/lib/netty-resolver-4.1.94.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ZooKeeperConnection/lib/netty-transport-native-unix-common-4.1.94.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ZooKeeperConnection/lib/jetty-server-9.4.51.v20230217.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ZooKeeperConnection/lib/netty-tcnative-boringssl-static-2.0.61.Final-linux-aarch_64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ZooKeeperConnection/lib/netty-tcnative-classes-2.0.61.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ZooKeeperConnection/lib/netty-transport-native-epoll-4.1.94.Final-linux-x86_64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ZooKeeperConnection/lib/netty-common-4.1.94.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ZooKeeperConnection/lib/jackson-core-2.15.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ZooKeeperConnection/lib/snappy-java-1.1.10.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ZooKeeperConnection/lib/netty-transport-classes-epoll-4.1.94.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ZooKeeperConnection/lib/netty-codec-4.1.94.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ZooKeeperConnection/lib/logback-classic-1.2.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ZooKeeperConnection/lib/zookeeper-jute-3.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ZooKeeperConnection/lib/simpleclient_servlet-0.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ZooKeeperConnection/lib/commons-io-2.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ZooKeeperConnection/lib/audience-annotations-0.12.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ZooKeeperConnection/lib/jackson-annotations-2.15.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ZooKeeperConnection/lib/jetty-security-9.4.51.v20230217.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ZooKeeperConnection/lib/netty-handler-4.1.94.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ZooKeeperConnection/lib/jetty-http-9.4.51.v20230217.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ZooKeeperConnection/lib/netty-tcnative-boringssl-static-2.0.61.Final-windows-x86_64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ZooKeeperConnection/lib/netty-tcnative-boringssl-static-2.0.61.Final-osx-aarch_64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ZooKeeperConnection/lib/simpleclient_hotspot-0.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ZooKeeperConnection/lib/netty-tcnative-boringssl-static-2.0.61.Final-linux-x86_64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ZooKeeperConnection/lib/slf4j-api-1.7.30.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ZooKeeperConnection/lib/jetty-io-9.4.51.v20230217.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ZooKeeperConnection/lib/netty-tcnative-boringssl-static-2.0.61.Final-osx-x86_64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ZooKeeperConnection/lib/netty-buffer-4.1.94.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ZooKeeperConnection/lib/zookeeper-prometheus-metrics-3.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ZooKeeperConnection/lib/jetty-util-9.4.51.v20230217.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ZooKeeperConnection/lib/simpleclient_common-0.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ZooKeeperConnection/lib/zookeeper-3.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ZooKeeperConnection/lib/simpleclient-0.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ZooKeeperConnection/lib/commons-cli-1.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ZooKeeperConnection/lib/netty-transport-4.1.94.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ZooKeeperConnection/lib/netty-tcnative-boringssl-static-2.0.61.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ZooKeeperConnection/lib/logback-core-1.2.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ZooKeeperConnection/lib/javax.servlet-api-3.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ZooKeeperConnection/lib/jetty-util-ajax-9.4.51.v20230217.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ZooKeeperConnection/lib/metrics-core-4.1.12.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ZooKeeperConnection/lib/jetty-servlet-9.4.51.v20230217.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ZooKeeperConnection/lib/jline-2.14.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ZooKeeperConnection/lib/jackson-databind-2.15.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
